@@ -75,7 +75,7 @@
 ### Windows 一键启动
 
 ```powershell
-git clone https://github.com/TianlonWang/ReActLab.git
+git clone https://github.com/wfang0314/ReActLab.git
 cd ReActLab
 
 # 编辑 .env，填入你的 API Key
